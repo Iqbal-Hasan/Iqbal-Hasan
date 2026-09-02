@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Iqbal6000
-- 👀 I’m interested in website making
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript larning
-- 📫 How to reach me (iqbalhasan6116@gmail.com)
 
-<!---
-Iqbal6000/Iqbal6000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hi 👋, I'm Pavel Ahammed</h1>
+
+<h3 align="center">
+  🌱 Learning Full-Stack Development
+</h3>
+
+<p align="center">
+  JavaScript • TypeScript • React • Node.js
+</p>
+
+<p align="center">
+  <a href="https://github.com/pavelsolutions">
+    <img src="https://img.shields.io/badge/GitHub-pavelsolutions-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:pahammed69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
