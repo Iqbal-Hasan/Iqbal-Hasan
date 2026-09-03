@@ -1,4 +1,7 @@
+<!--- banner --->
+<img src="./banner.jpg" alt="iqbal hasan information">
 
+<br/>
 
 <!-- ======================= INTRO ======================= -->
 
